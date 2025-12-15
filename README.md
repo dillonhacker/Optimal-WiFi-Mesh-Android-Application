@@ -31,5 +31,4 @@
     - [ ] Detect other SSID's 
         - [ ] Show these and what channels they are on
     - [ ] Detect overlap on channels if any
-        - [ ] If no overlap, then introduce overlap with older routers
  
